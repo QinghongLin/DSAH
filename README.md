@@ -2,7 +2,7 @@
 
 This is the official Tensorflow implementation for our CIKM'22 paper [Deep Self-Adaptive Hashing for Image Retrieval.](https://arxiv.org/pdf/2108.07094.pdf)
 
-<img src="dsah.jpg" alt="DSAH" style="zoom:67%;" />
+<img src="dsah.jpg" alt="DSAH" style="zoom:33%;" />
 
 ## Preparation
 1. Install dependencies 
