@@ -1,0 +1,3 @@
+python -u run_flickr_gpu.py --num_gpus 0 --version 'K1_500_K2_500_I_32' --codelen 32 --round 1 --max_epoch 30 --W 'S_K1_500_K2_500_I' --PIC 0 --ASL 0 --alpha 1 --beta 0 #--temp 1 --gamma 0
+python -u run_flickr_gpu.py --num_gpus 0 --version 'K1_500_K2_500_I_32_pic' --codelen 32 --round 1 --max_epoch 30 --W 'S_K1_500_K2_500_I' --PIC 1 --ASL 0 --alpha 1 --beta 0 #--temp 1 --gamma 0
+python -u run_flickr_gpu.py --num_gpus 0 --version 'K1_500_K2_500_I_32_npic' --codelen 32 --round 1 --max_epoch 30 --W 'S_K1_500_K2_500_I' --PIC 2 --ASL 0 --alpha 1 --beta 0 #--temp 1 --gamma 0

@@ -1,0 +1,1 @@
+python -u run_nus_gpu.py --num_gpus 0 --version 'K1_500_K2_500_I_16_b10_r3_t1' --codelen 16 --round 3 --max_epoch 10 --W 'S_K1_500_K2_500_I' --PIC 1 --ASL 1 --alpha 1 --beta 10 --temp 1 --gamma=0
